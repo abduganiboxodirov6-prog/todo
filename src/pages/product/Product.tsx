@@ -58,7 +58,7 @@ export default function ProductForm() {
   const errorClass = "text-pink-500 text-[10px] mt-1 italic";
 
   return (
-    <div className="min-h-screen bg-[#050505] p-6 flex flex-col md:flex-row gap-8 justify-center items-start text-white">
+    <div className="min-h-screen bg-[#050505] p-4 flex flex-col md:flex-row gap-8 justify-center items-start text-white">
       {/* FORM */}
       <form
         onSubmit={handleSubmit(onSubmit)}
