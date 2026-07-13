@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "kategoriya": "Kiyimlar",
+      "nomi": "Koylak",
+      "narxi": 12000,
+      "miqdor": 3,
+      "description": "sdfghjkl",
+      "id": "89CawwVJ_8o"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
