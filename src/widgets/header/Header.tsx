@@ -22,7 +22,7 @@ function Header({ title, count, onSale, onEdit }: HeaderProps) {
         {/* Logo Qismi */}
         <div className="flex flex-col">
           <h1 className="text-xl font-black text-white tracking-tighter uppercase">
-            {title}
+            {title}-salom
           </h1>
           <div className="flex items-center gap-4 mt-1">
             <span className="text-[9px] font-mono font-bold text-gray-500 tracking-widest uppercase">
