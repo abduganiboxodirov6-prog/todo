@@ -92,7 +92,7 @@ function ProductForm() {
               ))}
             </tbody>
           </table>
-        </div>
+<h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam voluptas culpa quaerat rerum praesentium, eum incidunt repudiandae animi. Eligendi, omnis?</h1>        </div>
       )}
     </div>
   );
